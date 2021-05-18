@@ -889,8 +889,8 @@ html, body {
 }
 
 .link-list li:after {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#F0B90B), to(#F0B90B));
-    background-image: linear-gradient(#F0B90B, #F0B90B);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#2483ff), to(#2483ff));
+    background-image: linear-gradient(#2483ff, #2483ff);
 }
 
 .description-list li h2 {
